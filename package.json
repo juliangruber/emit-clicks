@@ -10,7 +10,7 @@
   "main": "index.js",
   "dependencies": {
     "dom-events": "~0.0.0"
-  }
+  },
   "keywords": [
     "emit",
     "dom",
