@@ -1,0 +1,28 @@
+{
+  "name": "emit-clicks",
+  "description": "Emit events when links are clicked",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/emit-clicks.git"
+  },
+  "homepage": "https://github.com/juliangruber/emit-clicks",
+  "main": "index.js",
+  "dependencies": {
+    "dom-events": "~0.0.0"
+  }
+  "keywords": [
+    "emit",
+    "dom",
+    "browser",
+    "events",
+    "link",
+    "singlepage"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
