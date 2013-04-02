@@ -1,7 +1,8 @@
 
 # emit-clicks
 
-Make internal links emit events instead of leading away.
+Make internal links emit events instead of leading away. Super useful with
+[single-page](https://github.com/substack/single-page).
 
 ## Usage
 
