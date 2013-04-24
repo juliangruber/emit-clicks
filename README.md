@@ -34,6 +34,10 @@ emit(dom).on('click', function (href) {
 
 Returns an `EventEmitter` that emits `click` events whenever a relative URL is clicked.
 
+### emit#stop()
+
+Removes all listeners.
+
 ## Installation
 
 With [npm](http://npmjs.org) do

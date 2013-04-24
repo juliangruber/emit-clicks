@@ -1,7 +1,7 @@
 {
   "name": "emit-clicks",
   "description": "Emit events when links are clicked",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/juliangruber/emit-clicks.git"
