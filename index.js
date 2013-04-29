@@ -17,7 +17,7 @@ function emit (dom) {
       ev.preventDefault
         ? ev.preventDefault()
         : ev.returnValue = false;
-      ee.emit('click', href);
+      ee.emit('click', href, link);
     }
 
     events.on(link, 'click', onclick);

@@ -22,7 +22,7 @@ when someone clicks on the given link:
 var emit = require('emit-clicks');
 var dom = document.querySelector('#my-dom');
 
-emit(dom).on('click', function (href) {
+emit(dom).on('click', function (href, el) {
   console.log('clicked: ' + href);
   // => /foo/bar
 });
