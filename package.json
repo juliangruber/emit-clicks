@@ -9,7 +9,7 @@
   "homepage": "https://github.com/juliangruber/emit-clicks",
   "main": "index.js",
   "dependencies": {
-    "dom-events": "~0.0.0"
+    "dom-events": "~0.1.1"
   },
   "keywords": [
     "emit",
